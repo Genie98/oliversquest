@@ -34,9 +34,9 @@ if jumpKeyBuffered && jumpCount < jumpMax
 if !jumpKey //cutt off the jump by relasing the jump button 
 { jumpHoldTimer = 0 }
 //jump based on the timer/holding the button
-if jumpHoldTimer > 0
+if jumpHoldTimer > 8
 { vsp = jump_speed[jumpCount-1]; //Constanstly set the yspd tp be jumping speed
-  jumpHoldTimer--;  //Count down the timer
+  jumpHoldTimer--;  //Count down the timer 
 }
 //Y Collision and movement 
 if vsp > termVel { vsp = termVel; }; //cap falling speed

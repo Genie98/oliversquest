@@ -27,5 +27,13 @@ if (place_meeting(x, y + vsp, obj_wall)) {
   // Stop before you hit the wall/platform
   vsp = 0;
 }
+
+var _THRESHOLD = 2;
+
+if (fear_of_heights && !position_meeting(x + (sprite_width / 2) * dir,
+    y + (sprite_height / 2) + _THRESHOLD, obj_wall)) {
+      dir = -dir;
+}
+
 // Update the enemy's y-position
 y += vsp;
