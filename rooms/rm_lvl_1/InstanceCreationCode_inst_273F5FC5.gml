@@ -1,0 +1,1 @@
+textToShow = "Smart thinking!\nLet's use the shelves\nto get across the room!"

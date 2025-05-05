@@ -1,0 +1,1 @@
+textToShow = "I think I see something outside.\nQuick to the backyard!";

@@ -1,0 +1,1 @@
+textToShow = "Let's hurry up and\nfind Oliver's toy.\nHe looks sleepy.";

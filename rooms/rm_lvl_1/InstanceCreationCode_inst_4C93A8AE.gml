@@ -1,0 +1,1 @@
+textToShow = "Let's find that missing toy!\nhead to the right\nside of the room";

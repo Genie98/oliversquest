@@ -5,7 +5,7 @@
   runType = runKey; 
   hsp = move_dir * move_spd[runType]; //Get xpsd 
 //X collison 
-  var _subPixel = .5; // hot close the player can get to the wall without cutting into it
+  var _subPixel = .5; // hoW close the player can get to the wall without cutting into it
 if place_meeting(x + hsp, y, obj_wall) //checks for walls
 { var _pixelCheck = _subPixel * sign(hsp); //Scoor up to wall precisely
   while !place_meeting(x + _pixelCheck, y, obj_wall)

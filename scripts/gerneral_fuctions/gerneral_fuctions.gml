@@ -17,7 +17,7 @@ leftKey = keyboard_check(vk_left) + keyboard_check(ord("A")); //can use either l
 jumpKeyPress = keyboard_check_pressed(vk_space);
 jumpKey = keyboard_check(vk_space) 
 
-runKey = keyboard_check(ord("H")); 
+runKey = keyboard_check(ord("R")); 
 runKey = clamp(runKey, 0, 1 );
 
 //Jemp Key Buffering

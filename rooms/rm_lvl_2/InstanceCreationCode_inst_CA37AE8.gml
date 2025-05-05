@@ -1,0 +1,1 @@
+textToShow = "Use the shelves and\nwindows to jump over the dog."

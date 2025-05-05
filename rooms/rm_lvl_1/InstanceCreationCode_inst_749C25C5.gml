@@ -1,0 +1,1 @@
+textToShow = "Good work!\nJump off the dresser to get\nto the next room!"

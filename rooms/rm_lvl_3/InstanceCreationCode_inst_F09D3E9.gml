@@ -1,0 +1,1 @@
+textToShow = "Oh No!\nIt's that dog again!\nLet's try to avoid him.\nQuick on the couch!";

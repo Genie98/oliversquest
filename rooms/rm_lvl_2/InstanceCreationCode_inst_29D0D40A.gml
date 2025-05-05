@@ -1,0 +1,1 @@
+textToShow = "OH NO, A DOG!\nDon't let him touch you!"

@@ -1,0 +1,1 @@
+textToShow = "MORE DOGS!!\nOliver is going to have\na word with his mother\nwhen she gets home.";

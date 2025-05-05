@@ -1,0 +1,1 @@
+textToShow ="Oh No, the dresser is\nblocking our way!\nLet's find another way around"

@@ -1,0 +1,1 @@
+game_restart(); // only while making game
